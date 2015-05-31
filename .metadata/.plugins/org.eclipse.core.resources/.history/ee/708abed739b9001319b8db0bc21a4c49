@@ -1,0 +1,59 @@
+package fhmqpd.cs3330.lab7;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+/*
+ * Name: Francois Mariette
+ * Section: E
+ * Submission code: Gingerbread
+ */
+
+public class Driver {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String name, age, balance;
+		ArrayList<Person> people = new ArrayList<Person>();
+
+		while (!input.equals("q")) {
+			System.out.println("Enter person info or q to quit");
+			System.out.println("Please enter a name:");
+			name = input.nextLine();
+			System.out.println("Please enter a bank account balance for this person: ");
+			age = input.nextLine();
+			System.out.println("Please enter a bank account balance for this person: ");
+			balance = input.nextLine();
+			
+		}
+		
+		
+		input.close();
+	}
+	
+	public static void isBalance(String input) throws InvalidBalanceException{
+		try{
+			double balance = Double.parseDouble(input);
+		} catch(NumberFormatException e){
+			
+			
+		}
+	}
+	
+	public static void isName(String input){
+		try {
+			String name = 
+		}
+		
+	}
+	
+	public static void isAge(String input) throw InvalidAgeException{
+		try{
+			int age = Integer.parseInt(input);
+			if (age <= 0 && age >= 150){
+				throw new InvalidAgeException();
+			}
+		}
+	}
+
+}

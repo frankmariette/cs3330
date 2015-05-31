@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;fhmqpd.cs3330.Prelab2&apos; to &apos;fhmqpd.cs3330.PrelabTwo&apos;&#x0A;- Original project: &apos;fhmqpd.cs3330.Prelab2&apos;&#x0A;- Original element: &apos;fhmqpd.cs3330.Prelab2/src/fhmqpd.cs3330.Prelab2&apos;&#x0A;- Renamed element: &apos;fhmqpd.cs3330.Prelab2/src/fhmqpd.cs3330.PrelabTwo&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;fhmqpd.cs3330.Prelab2&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;fhmqpd.cs3330.Prelab2" name="fhmqpd.cs3330.PrelabTwo" qualified="false" references="true" stamp="1392043877417" textual="false" version="1.0"/>
+</session>

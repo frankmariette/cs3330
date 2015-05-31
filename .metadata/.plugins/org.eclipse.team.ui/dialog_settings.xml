@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SynchronizeViewSettings">
+		<item value="false" key="linkWithEditor"/>
+		<item value="1391436568433" key="lastactiveparticipant_sec_id"/>
+		<item value="com.jcraft.eclipse.team.sftp.synchronize-participant" key="lastactiveparticipant_id"/>
+		<section name="com.jcraft.eclipse.team.sftp.synchronize-participant.1391436568433">
+			<item value="org.eclipse.team.ui.modelprovider_compressedfolders" key="org.eclipse.team.ui.P_LAST_MODELPROVIDER"/>
+			<item value="1" key="org.eclipse.team.ui.P_SYNCVIEWPAGE_MODE"/>
+		</section>
+		<section name="com.jcraft.eclipse.team.sftp.synchronize-participant.1391436455204">
+		</section>
+	</section>
+	<section name="SynchronizeResourceSelectionDialog">
+		<item value="" key="SynchronizeResourceSelectionDialog.STORE_WORKING_SETS"/>
+	</section>
+	<section name="SynchronizeWizard">
+		<item value="com.jcraft.eclipse.team.sftp.SynchronizeWizard" key="org.eclipse.team.uiGlobalRefreshWizardSelectionPage.default_selection"/>
+	</section>
+</section>

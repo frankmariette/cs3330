@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deploymentProviders>
+<provider container_path="" id="com.jcraft.eclipse.team.sftp.SFTPDeploymentProvider">
+<data URL="sftp://fhmqpd@babbage.cs.missouri.edu"/>
+</provider>
+</deploymentProviders>
